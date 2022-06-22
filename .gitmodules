@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cdmTools"]
+	path = cdmTools
+	url = https://github.com/pablo-najera/cdmtools
+	shallow = true
+	registered = true
